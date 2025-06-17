@@ -11,7 +11,10 @@ class Solution:
 arr=[1,4,3,2,6,5]
 s=Solution()
 s.reverseArray(arr)
-        
+
+
+#output:
+#[1,2,3,4]-->[4,3,2,1]
         
         
         
