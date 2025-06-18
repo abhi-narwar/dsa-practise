@@ -1,4 +1,4 @@
-import heapq  # To use heap (priority queue)
+import heapq  # To use heap (priority queue)  --->heapq supports only min_heap, to make max_heap we take negative values  and we pop maximum element from the top of heap if array size>k .
 
 class Solution:
     def kthSmallest(self, arr, K):
