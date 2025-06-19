@@ -15,7 +15,7 @@ class Solution:
                 arr[i],arr[k]=arr[k],arr[i]
                 k-=1
 s=Solution()
-s.sort012([0,1,2,0,1,2])
+s.sort012([0,1,2,0,1,2]) #output-->[0,0,1,1,2,2]
     
             
                 
