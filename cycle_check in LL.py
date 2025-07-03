@@ -5,7 +5,7 @@ class Node:
 
 class Solution:
     # Function to check if the linked list has a loop
-    def cycle_check(self, head):                                    '''in this question we take two pointer marker1 as as slow pointer which moves one step and marker2 as fast pointer which moves 2 steps ,we iterate over the entire list using while loop  
+    def cycle_check(self, head):                                    '''floyd's cycle detection algorithm--in this question we take two pointer marker1 as as slow pointer which moves one step and marker2 as fast pointer which moves 2 steps ,we iterate over the entire list using while loop  
         marker1 = head                                               '''
         marker2 = head
 
