@@ -1,4 +1,5 @@
 ✅ Complete Skill Set for 10+ LPA Target (via Referral)
+
 🔷 1. DSA (Data Structures and Algorithms)
 Arrays
 
@@ -131,5 +132,6 @@ Reach out for referrals to your known connections
 Cloud Basics: (AWS / GCP – EC2, S3)
 
 Docker Basics (for backend dev roles)
+
 
 
