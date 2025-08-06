@@ -1,0 +1,135 @@
+✅ Complete Skill Set for 10+ LPA Target (via Referral)
+🔷 1. DSA (Data Structures and Algorithms)
+Arrays
+
+Strings
+
+HashMap, Set
+
+Stack & Queue
+
+Recursion & Backtracking
+
+Two Pointers, Sliding Window
+
+Linked List
+
+Trees & Binary Trees
+
+Binary Search
+
+Heap / Priority Queue
+
+Graph (BFS, DFS, Dijkstra)
+
+Dynamic Programming (Basic to Medium)
+
+🎯 Target Platform: LeetCode, InterviewBit, GFG
+🎯 Goal: 200–250+ questions
+
+🔷 2. Python Programming
+Basics (variables, loops, functions, OOPs)
+
+File Handling
+
+Exception Handling
+
+Modules and Libraries
+
+OOPs Concepts (class, object, inheritance, etc.)
+
+Data Structures in Python (List, Dict, Set, Tuple)
+
+Lambda, Map, Filter, List Comprehension
+
+🔷 3. Web Development (Full Stack with Python + Django)
+🔹 Frontend:
+HTML
+
+CSS
+
+JavaScript (Basic)
+
+🔹 Backend:
+Python with Django
+
+REST API development
+
+Authentication & Authorization (Login, Signup)
+
+Middleware, Views, URL routing
+
+🔹 Database:
+SQLite / PostgreSQL
+
+ORM in Django (models)
+
+🔹 Hosting:
+GitHub + Render / Railway / Vercel (basic deployment)
+
+🎯 Projects to build:
+
+E-commerce Website
+
+Bill Payment App
+
+Blog Website
+
+Chat Application
+
+🔷 4. SQL + Data Analysis
+SQL Queries (SELECT, JOIN, GROUP BY, ORDER BY)
+
+Excel (Basic to Advanced)
+
+Python (Pandas, Matplotlib for data analysis)
+
+Power BI / Tableau (optional)
+
+🎯 Projects to build:
+
+Sales Dashboard
+
+Delivery Partner Analysis
+
+Customer Segmentation
+
+🔷 5. System Design (Basics)
+Client-Server Architecture
+
+API Design
+
+Low-level design of:
+
+URL shortener
+
+Instagram
+
+Zomato Order system
+
+🎯 Resource: Gaurav Sen, CodeKarle, System Design Primer GitHub
+
+🔷 6. CS Fundamentals (for Interviews)
+Operating System (Processes, Threads, Deadlock, Scheduling)
+
+DBMS (Normalization, Transactions, Joins)
+
+Computer Networks (HTTP, TCP/IP, DNS, etc.)
+
+OOPs Concepts
+
+🔷 7. Git, GitHub, Resume, LinkedIn
+Git & GitHub (push projects regularly)
+
+Resume (project-based, keyword optimized)
+
+LinkedIn (connection + profile optimization)
+
+Reach out for referrals to your known connections
+
+✅ Bonus (if time permits)
+Cloud Basics: (AWS / GCP – EC2, S3)
+
+Docker Basics (for backend dev roles)
+
+
