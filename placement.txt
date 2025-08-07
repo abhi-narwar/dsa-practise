@@ -1,0 +1,8 @@
+| Area            | Kya Karna Hai                              | Timeline                |
+| --------------- | ------------------------------------------ | ----------------------- |
+| ✅ DSA           | 250+ questions (Easy to Medium)            | Roz 2-3 hrs, 3–4 months |
+| ✅ Web Dev       | 1 full-stack project (Python Django/Flask) | 2 months                |
+| ✅ GitHub        | Har project ka code upload karo            | Ongoing                 |
+| ✅ Resume        | Projects + Skills highlight karo           | 1 month                 |
+| ✅ Communication | Thoda thoda English + mock interviews      | Daily 15 min            |
+| ✅ Referral      | Tau ke ladke se time pe proof ke sath bolo | Tabhi milega            |
